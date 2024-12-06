@@ -173,3 +173,5 @@ Nota: há mais alguns guias na [wiki](https://github.com/zRitsu/MuseHeart-MusicB
 * [DarrenOfficial](https://lavalink-list.darrennathanael.com/) Lavalink serverlist (Usuários que publicaram seus servidores lavalink estão listados no comando about junto com website/link).
 * E a todos os membros que me me ajudaram bastante com reports de erros (sendo nas [issues](https://github.com/zRitsu/MuseHeart-MusicBot/issues) e no servidor do discord)
 * Demais atribuições podem ser conferidas no [dependency graph](https://github.com/zRitsu/MuseHeart-MusicBot/network/dependencies)
+#   B B B o t  
+ 
