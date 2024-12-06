@@ -175,4 +175,5 @@ Nota: há mais alguns guias na [wiki](https://github.com/zRitsu/MuseHeart-MusicB
 * Demais atribuições podem ser conferidas no [dependency graph](https://github.com/zRitsu/MuseHeart-MusicBot/network/dependencies)
 #   B B B o t  
  #   B B B o t 1  
+ #   B B B o t 1  
  
