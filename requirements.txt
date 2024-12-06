@@ -1,0 +1,29 @@
+disnake==2.9.3
+python-dotenv
+user_agent
+requests>=2.31.0
+humanize
+motor
+tinymongo
+dnspython>=2.6.1
+psutil
+aiofiles
+disnake-jishaku
+packaging
+aiosqlite
+yt-dlp[default]>=2024.12.03
+tornado>=6.4.2
+emoji
+urllib3>=2.2.2
+async-timeout
+cachetools
+regex
+syncedlyrics
+pylrc
+rapidfuzz
+nodriver==0.32
+undetected-chromedriver==3.5.5
+g4f>=0.3.8.0
+nest_asyncio
+setuptools>=70.0.0; python_version>='3.12'
+audioop-lts; python_version>='3.13'
